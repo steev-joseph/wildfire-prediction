@@ -1,0 +1,1 @@
+print("These are the Features of wildfire prediction")
